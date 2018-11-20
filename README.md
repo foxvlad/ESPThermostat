@@ -1,12 +1,11 @@
 # ESPLampWeb
 
-Web device Configurator for ESP8266(ESPLamp).
-*4-channel control unit, four inputs, four outputs-configurable via web interface*
+Web device Configurator for ESP8266(ESPThermostat).
+*Thermostat on DS1820 sensor, connected to gpio 14, gpio for relay connection is selected in the settings on the device tab*
 
 **Screenshots of the interface**
 
-![1](https://github.com/foxvlad/IMG/blob/master/2018-11-09_00-05-02.png)
-![2](https://github.com/foxvlad/IMG/blob/master/2018-11-09_00-05-09.png)
+![1](https://github.com/foxvlad/IMG/blob/master/2018-11-20_12-36-25.png)
 
 
 **Device firmware:**
