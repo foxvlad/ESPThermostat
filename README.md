@@ -10,7 +10,7 @@ Web device Configurator for ESP8266(ESPThermostat).
 
 **Device firmware:**
 
-![1](https://github.com/foxvlad/ESPLampWeb/blob/master/2018-11-08_22-00-11.png)
-![2](https://github.com/foxvlad/ESPLampWeb/blob/master/2018-11-08_22-00-23.png)
+![1](https://github.com/foxvlad/ESPThermostat/blob/master/2018-11-20_22-33-22.png)
+![2](https://github.com/foxvlad/ESPThermostat/blob/master/2018-11-20_22-33-36.png)
 
 ***In case of errors, reduce the port speed***
