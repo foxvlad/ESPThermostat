@@ -5,7 +5,7 @@ Web device Configurator for ESP8266(ESPThermostat).
 
 **Screenshots of the interface**
 
-![1](https://github.com/foxvlad/IMG/blob/master/2018-11-20_12-36-25.png)
+![1](https://github.com/foxvlad/IMG/blob/master/2018-11-20_22-36-29.png)
 
 
 **Device firmware:**
